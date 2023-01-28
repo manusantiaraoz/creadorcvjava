@@ -50,7 +50,7 @@ public class Curriculum {
 
   
 
-
+ 
     public String getNombre() {
         return nombre;
     }

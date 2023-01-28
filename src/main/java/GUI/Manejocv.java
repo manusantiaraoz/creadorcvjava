@@ -57,7 +57,7 @@ public class Manejocv {
       skill4 = obtener(0).getSkill4();
       skill5 = obtener(0).getSkill5();
       exp = obtener(0).getExp();
-      
+       
       String html5 = "<!DOCTYPE html>"
                     + "<html lang='en'>"
                     + "<head>"

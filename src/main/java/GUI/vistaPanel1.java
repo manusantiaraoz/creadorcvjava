@@ -659,7 +659,7 @@ Manejocv cv = new Manejocv();
         cv.crear();
         System.out.println("+++++++++++++++++++boton apretado++++++++++++++++++");
     }//GEN-LAST:event_btnCrearActionPerformed
-
+  
     private void btnCrearMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnCrearMouseClicked
   
     }//GEN-LAST:event_btnCrearMouseClicked
