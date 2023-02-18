@@ -1,8 +1,8 @@
 
 package GUI;
 
-
 public class Curriculum {
+//atributos
     private String nombre;
     private String apellido;
     private String perfil;
