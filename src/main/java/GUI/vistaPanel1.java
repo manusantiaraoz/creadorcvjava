@@ -1046,7 +1046,7 @@ Manejocv cv = new Manejocv();
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnCrearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCrearActionPerformed
-Curriculum persona =  new Curriculum(nombre_area.getText(), apellido_area.getText(), carr_area.getText(),
+Curriculum persona =  new Curriculum(nombre_area.getText(), apellido_area.getText(), perfilP_area.getText(),
                metas_area.getText(),edad_area.getText(),direccion_area.getText(),
                cel_area.getText(), email_area.getText(),linkedin_area.getText(), 
                carr_area.getText(),inst_area.getText(), curso_area.getText(), idioma_area.getText(),
